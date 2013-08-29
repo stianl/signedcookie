@@ -1,0 +1,9 @@
+# Intellij project files
+*.iml
+.idea/
+
+#generated files
+out/
+
+#libs
+lib/
